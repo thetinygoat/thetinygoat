@@ -7,8 +7,8 @@ Currently, I'm working on Memdb, it is an in-memory data structure store. If you
 **Repo link:** https://github.com/memdb/memdb
 
 ### 📫 Reach out!
-**Email:** iamsainisachin@gmail.com
-**Twitter:** https://twitter.com/thetinygoat
-**DEV:** https://dev.to/thetinygoat
-**Personal site:** https://thetinygoat.github.io
+- **Email:** iamsainisachin@gmail.com
+- **Twitter:** https://twitter.com/thetinygoat
+- **DEV:** https://dev.to/thetinygoat
+- **Personal site:** https://thetinygoat.github.io
 
