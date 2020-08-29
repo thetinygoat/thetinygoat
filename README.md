@@ -4,7 +4,7 @@ Hi, I'm Sachin. I am currently a 3rd-year student at NSIT. I like to work on int
 ### 🔭 Currently working on
 Currently, I'm working on DictX, it is an in-memory data store. If you like the project do give it a 🌟. New contributors are always welcome 😁
 
-**Repo link:** https://github.com/thetinygoat/dictX
+**Repo link:** https://github.com/thetinygoat/DictX
 
 ### 📫 Reach out!
 - **Email:** iamsainisachin@gmail.com
