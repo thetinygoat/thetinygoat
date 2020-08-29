@@ -2,7 +2,7 @@
 Hi, I'm Sachin. I am currently a 3rd-year student at NSIT. I like to work on interesting problems ranging from web development to machine learning and everything in between.
 
 ### 🔭 Currently working on
-Currently, I'm working on dictX, it is an in-memory data structure store. If you are interested or like the project give it a 🌟. New contributors are always welcome 😁
+Currently, I'm working on DictX, it is an in-memory data store. If you like the project do give it a 🌟. New contributors are always welcome 😁
 
 **Repo link:** https://github.com/thetinygoat/dictX
 
@@ -11,4 +11,3 @@ Currently, I'm working on dictX, it is an in-memory data structure store. If you
 - **Twitter:** https://twitter.com/thetinygoat
 - **DEV:** https://dev.to/thetinygoat
 - **Personal site:** https://thetinygoat.github.io
-
