@@ -1,5 +1,5 @@
 # Sachin Saini — @thetinygoat
-Hi, I'm Sachin. I am a Software Engineer at [Gokwik](https://www.gokwik.co/). I love working on hard problems and learning new things, currently exploring distributed systems and databases.
+Hi, I'm Sachin. I am a Software Engineer at [Gokwik](https://www.gokwik.co/). I love working on hard problems and learning new things, exploring distributed systems and databases.
 
 
 ### 📫 Reach out!
